@@ -1,0 +1,17 @@
+# main links
+main:
+  - title: "About"
+    url: /about
+    blank: false
+  - title: "Book"
+    url: /book
+    blank: false
+  - title: "Podcast"
+    url: /podcast
+    blank: false
+  - title: "Initiatives"
+    url: /initiatives
+    blank: false
+  - title: "Contact"
+    url: /contact
+    blank: false
